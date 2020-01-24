@@ -1,7 +1,25 @@
 fileFormatVersion: 2
-guid: d63506c2ba3e42645911a5449840f3bb
+guid: 43717ba095317dc408775b41bc02f320
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1665029998902111164
+    second: Fred Spritesheet_0
+  - first:
+      213: -4759069577140308253
+    second: Fred Spritesheet_1
+  - first:
+      213: -2817145602685001034
+    second: Fred Spritesheet_2
+  - first:
+      213: -7414524991005622268
+    second: Fred Spritesheet_3
+  - first:
+      213: -1618926947429883973
+    second: Fred Spritesheet_4
+  - first:
+      213: -927271161605123900
+    second: Fred Spritesheet_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -84,11 +102,74 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Fred Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 597
+        width: 1445
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2233a8bde63a1048a691c783db3e391
+      internalID: 1665029998902111164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 608
+        width: 1206
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8c1bb8d532a7a42862553388d4086e
+      internalID: -4759069577140308253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 597
+        width: 666
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1219916c0fa90364ea7d8c2f8b3cea26
+      internalID: -2817145602685001034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: dae8cd02418fcc245883a9778bedf6f9
     internalID: 0
     vertices: []
     indices: 
