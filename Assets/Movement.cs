@@ -9,7 +9,7 @@ public class Movement : MonoBehaviour
 
     void Start()
     {
-        //anim.SetBool("IsShooting", true);
+        anim.SetBool("IsShooting", false);
     }
    
     void Update()
