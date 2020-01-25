@@ -6,9 +6,12 @@ public class Movement : MonoBehaviour
 {
     public float speed = 2.0f;
     public Animator anim;
-    
-    //anim.SetBool("IsJumping", true);
-    
+
+    void Start()
+    {
+        //anim.SetBool("IsShooting", true);
+    }
+   
     void Update()
     {
         float xMov = Input.GetAxis("Horizontal") * speed * Time.deltaTime;

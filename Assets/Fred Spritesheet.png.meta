@@ -18,8 +18,20 @@ TextureImporter:
       213: -1618926947429883973
     second: Fred Spritesheet_4
   - first:
+      213: 5211958316082141639
+    second: Fred Spritesheet_10
+  - first:
       213: -927271161605123900
     second: Fred Spritesheet_5
+  - first:
+      213: -2073824271621572622
+    second: Fred Spritesheet_24
+  - first:
+      213: 1699309027110694051
+    second: Fred Spritesheet_6
+  - first:
+      213: -1305146322026506666
+    second: Fred Spritesheet_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -107,18 +119,18 @@ TextureImporter:
       name: Fred Spritesheet_0
       rect:
         serializedVersion: 2
-        x: 238
-        y: 597
-        width: 1445
-        height: 667
+        x: 229
+        y: 589
+        width: 1462
+        height: 682
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2233a8bde63a1048a691c783db3e391
+      spriteID: 58ecd57df1b4dac45928fe4f13505c6b
       internalID: 1665029998902111164
       vertices: []
       indices: 
@@ -128,18 +140,18 @@ TextureImporter:
       name: Fred Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 2277
-        y: 608
-        width: 1206
-        height: 787
+        x: 2269
+        y: 589
+        width: 1222
+        height: 802
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce8c1bb8d532a7a42862553388d4086e
+      spriteID: 1285601f11b604a4896ec58d96fc2878
       internalID: -4759069577140308253
       vertices: []
       indices: 
@@ -149,19 +161,166 @@ TextureImporter:
       name: Fred Spritesheet_2
       rect:
         serializedVersion: 2
-        x: 4437
-        y: 597
-        width: 666
-        height: 726
+        x: 4429
+        y: 589
+        width: 682
+        height: 742
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1219916c0fa90364ea7d8c2f8b3cea26
+      spriteID: 59caccee153203a44837f5b32fa55e6c
       internalID: -2817145602685001034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 6109
+        y: 589
+        width: 1462
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078d18425a96c94c921057ce4a3b972
+      internalID: -7414524991005622268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 8029
+        y: 589
+        width: 1462
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436f4170c9340d4e8111ec0e7082393
+      internalID: -1618926947429883973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 11569
+        y: 1069
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d1e76ea9309064db84a4bf50fe6073
+      internalID: 5211958316082141639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 9616
+        y: 636
+        width: 1451
+        height: 607
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46886218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e160179e894284190c407f8c91163a
+      internalID: -927271161605123900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 11689
+        y: 949
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c25eae4388877d42836b93de8e6d857
+      internalID: -2073824271621572622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 11519
+        y: 648
+        width: 1451
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d50128d363fd74db4e175ffc17d725
+      internalID: 1699309027110694051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 13430
+        y: 647
+        width: 1449
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d41eec74390e53459faeea00fa78572
+      internalID: -1305146322026506666
       vertices: []
       indices: 
       edges: []
@@ -169,7 +328,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: dae8cd02418fcc245883a9778bedf6f9
+    spriteID: 86964a4232022944893b296555f8ac85
     internalID: 0
     vertices: []
     indices: 
